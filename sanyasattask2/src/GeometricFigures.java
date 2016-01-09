@@ -29,8 +29,7 @@ class Rectangle extends GeometricFigures {
         return a * b;
     }
 }
-
-    // Класс круг
+     // Класс круг
     class Circle extends GeometricFigures {
         private double r;
 
